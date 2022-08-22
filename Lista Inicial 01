@@ -1,7 +1,72 @@
 #EXTM3U
 
+#EXTM3U
+
 #EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
 https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tH7EZL4.jpg" group-title="AFRICA", A2i Music (720p) [Not 24/7]
+https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tH7EZL4.jpg" group-title="AFRICA", A2i Naja (720p) [Not 24/7]
+https://stream.sen-gt.com/A2iNaija/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tH7EZL4.jpg" group-title="AFRICA", A2i Religion (720p) [Not 24/7]
+https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AFRICA", A2i TV (1080p) [Not 24/7]
+https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KAg6MOI.png" group-title="AFRICA", Addis TV (720p)
+https://rrsatrtmp.tulix.tv/addis1/addis1multi.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/soDiTxg.jpeg" group-title="AFRICA", Africa TV 1
+http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tH7EZL4.jpg" group-title="AFRICA", A2i Naja (720p) [Not 24/7]
+https://stream.sen-gt.com/A2iNaija/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tH7EZL4.jpg" group-title="AFRICA", A2i Religion (720p) [Not 24/7]
+https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AFRICA", A2i TV (1080p) [Not 24/7]
+https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KAg6MOI.png" group-title="AFRICA", Addis TV (720p)
+https://rrsatrtmp.tulix.tv/addis1/addis1multi.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://service.canal-overseas.com/image-api/v1/image/5836eea75f733ebc63fa69254643606c" group-title="AFRICA", B-One
+http://178.33.237.146/rtnc1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KlRMe5h.png" group-title="AFRICA", Boss Brothers TV (1080p)
+http://51.254.199.122:8080/bossbrothersTV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.elhiwarettounsi.com/images/news/logo.png" group-title="AFRICA", El Hiwar El Tounsi (400p) [Not 24/7]
+http://217.182.137.206/elhiwar.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wf2BlTG.png" group-title="AFRICA", IBN TV (360p)
+http://138.68.138.119:8080/low/5a8993709ea19/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/13N8UX5.jpg" group-title="AFRICA", KC2 (720p) [Not 24/7]
+http://197.243.19.131:1935/kc2/kc2/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/libya_al_hadath_ly.png" group-title="AFRICA", Libya Al Hadath (576p) [Not 24/7]
+http://82.212.74.100:8000/live/8103.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a7CSWcN.png" group-title="AFRICA", M24 TV (720p) [Not 24/7]
+http://79.137.106.241/live/smil:OutStream1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YtaF4oP.png" group-title="AFRICA", MBC (614p) [Not 24/7]
+http://41.216.229.205:8080/live/livestream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://service.canal-overseas.com/image-api/v1/image/745aa9a13c620e1d4533ea14fa0b5d6c" group-title="AFRICA", RTV Rwanda (480p) [Not 24/7]
+http://197.243.19.131:1935/rtv/rtv/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PNHL3XN.png" group-title="AFRICA", TVM (480p)
+http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tunisietv.com/wp-content/uploads/2015/05/Logo_Wataniya_2.png" group-title="AFRICA", Watania 2 (400p) [Not 24/7]
+http://217.182.137.206/tunisie2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.costadosol.tv.br/site/wp-content/uploads/2017/12/agro-brasil.png" group-title="Outdoor", AgroBrasil TV (486p)
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
